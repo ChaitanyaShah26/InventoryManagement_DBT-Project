@@ -22,7 +22,9 @@ This project uses the following technologies:
 
 ## Project Report
 <p align="center">
-    <img src="https://custom-icon-badges.demolab.com/badge/Project_Report-e30e0e?style=for-the-badge&logo=file" alt="Project Report">
+    <a href="https://chaitanyashah26.github.io/InventoryManagement_DBT-Project/blob/main/Project_Report%20(Inventory%20Management%20System).pdf" target="_blank">
+        <img src="https://custom-icon-badges.demolab.com/badge/Project_Report-e30e0e?style=for-the-badge&logo=file" alt="Project Report">
+    </a>
 </p>
 
 
